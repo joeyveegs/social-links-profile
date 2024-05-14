@@ -1,7 +1,16 @@
 * {
     font-family: "Inter", sans-serif;
+    color: hsl(0, 0%, 100%);
 }
 
 body {
     background-color: hsl(0, 0%, 8%);
+}
+
+.main-box {
+    background-color: hsl(0, 0%, 12%);
+}
+
+button {
+    background-color: hsl(0, 0%, 20%);
 }
