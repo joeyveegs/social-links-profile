@@ -32,3 +32,24 @@ html, body {
 button {
     background-color: hsl(0, 0%, 20%);
 }
+
+h1 {
+    font-size: 25px;
+    font-weight: 700;
+}
+
+h2 {
+    font-size: 16px;
+    font-weight: 600;
+    color: hsl(75, 94%, 57%);
+}
+
+p {
+    font-size: 14px;
+    font-weight: 400;
+}
+
+button {
+    font-size: 16px;
+    font-weight: 600;
+}
