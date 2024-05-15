@@ -85,6 +85,12 @@ button {
     background-color: hsl(0, 0%, 20%);
     border-radius: 8px;
     border-style: none;
+    transition-duration: 0.2s;
     font-size: 14px;
     font-weight: 700;
+}
+
+button:hover {
+    background-color: hsl(75, 94%, 57%);
+    color: hsl(0, 0%, 0%);
 }
